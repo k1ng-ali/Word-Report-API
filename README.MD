@@ -18,7 +18,7 @@ POST /public/report/export
 - Генерация Excel-файл
 ---
 ## Архитектура
-```mermaid
+```bash
 api/         # HTTP слой (роуты)
 services/    # Бизнес логика
 main.py      # Точка входа
