@@ -34,8 +34,8 @@ main.py      # Точка входа
 ## Установка и запуск
 1. Клон пректа
 ```bash
-git clone <repo url>
-cd <project folder>
+git clone https://github.com/k1ng-ali/Word-Report-API
+cd <folder>
 ```
 2. Установить зависимости
 ```bash 
